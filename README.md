@@ -13,5 +13,4 @@
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" /> </p>
 📫 Find me
-<p align="left"> <a href="(https://www.instagram.com/fullstackmachine/)" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
-<p align="center"><i>Trading the camera for the code, one project at a time. 🚀</i></p>
+<p align="left"> <a href="https://www.instagram.com/fullstackmachine/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
