@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Renan 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C51111&center=true&vCenter=true&width=500&lines=Developer+in+training;Learning+HTML%2C+CSS+and+JavaScript;Coming+from+content+creation+into+code" alt="Typing SVG" /> </p>
+<h1 align="center">Hi, I'm Gabriel 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C51111&center=true&vCenter=true&width=500&lines=Developer+in+training;Learning+HTML%2C+CSS+and+JavaScript;Coming+from+content+creation+into+code" alt="Typing SVG" /> </p>
 🧭 About me
 🎓 Studying web development at DevClub
 💻 Currently focused on HTML, CSS and JavaScript
